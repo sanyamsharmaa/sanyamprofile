@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frontend development, bootstrap**
 
-- 👯 I’m looking to collaborate on **Touristo**
+- 👯 I’m looking to collaborate on **Touristo**   
 
 - 📫 How to reach me **sanyamsharmap@gmail.com**
 
